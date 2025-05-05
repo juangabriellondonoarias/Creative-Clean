@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: rgb(255, 137, 64);
+    font-family: sans-serif;
+    font-size: 70px;
+    padding-bottom: 2%;
+    }
+
+h2{
+    padding-bottom: 12%;
+    font-family: "Segoe IU", sans-serif;
+    font-size: 30px;
+}
+
+.primero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 78vh;
+    background: url(../assets/bgHeader.png);
+    background-position-y: -50px ;
+    zoom: 1.4;
+    padding-top: 150px;
+}
+
+.boton{
+    border: 0px solid rgb(255, 145, 72);
+    background-color: rgb(255, 145, 72);
+    border-radius: 25px;
+    padding: 10px 25px 10px 25px;
+    color: white;
+    margin-bottom: 22%;
+    font-size: 18px;
+}
+
+h3{
+    font-family:"Segoe IU", sans-serif;
+    color: rgb(255, 137, 64);
+    font-size: 50px;
+}
+
+.segundo{
+    flex-direction: column;
+    margin:10% 50% 10% 10%;
+}
+
+.segundo p{
+    font-size: 25px;
+    padding-top: 10%;
+}
+
+
+.img1{
+    float: right;
+    margin-top: -50%;
+    margin-right: 12%;
+    width: 28%;
+}
+
+.boton2{
+    border: 0px solid rgb(255, 145, 72);
+    background-color: rgb(255, 145, 72);
+    border-radius: 25px;
+    padding: 15px 25px 15px 25px;
+    color: white;
+    margin-bottom: 22%;
+    width:20%;
+    font-size: 20px;
+    margin-top: 6%;
+}
+
+.arriba{
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+
+.img2{
+    width: 28%;
+    float: left;
+    margin-left: 10%;
+    margin-right: 20%;
+    margin-top: -3%;
+
+}
+
+
+.boton3{
+    border: 0px solid rgb(255, 145, 72);
+    background-color: rgb(255, 145, 72);
+    border-radius: 25px;
+    padding: 15px 25px 15px 25px;
+    color: white;
+    margin-bottom: 22%;
+    width:8%;
+    font-size: 20px;
+    margin-top: 3%;
+}
+
+.tercero p{
+    font-size: 25px;
+    margin-top: 3%;
+}
+
+.cuarto{
+    background-color: #F0DAD4;
+    height: 60vh;
+    background: url(../assets/bgDown.png);
+    zoom: 1.4;
+}
+
+h4{
+    font-family:"Segoe IU", sans-serif;
+    color: rgb(255, 137, 64);
+    font-size:35px;
+   
+}
+
+.ultimo{
+    margin-left: 12%;
+    margin-top: 10%;
+}
+
+.boton4{
+    border: 0px solid rgb(255, 145, 72);
+    background-color: rgb(255, 145, 72);
+    border-radius: 25px;
+    padding: 15px 25px 15px 25px;
+    color: white;
+    margin-bottom: 22%;
+    width:14%;
+    font-size: 15px;
+    margin-top: 4%;
+}
+
+footer{
+    margin-top: 100%;
+}
