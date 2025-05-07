@@ -80,6 +80,10 @@ h3{
     margin-bottom: 10%;
 }
 
+.arriba p{
+    font-family: sans-serif;
+}
+
 .img2{
     width: 28%;
     float: left;
@@ -124,6 +128,13 @@ h4{
 .ultimo{
     margin-left: 12%;
     margin-top: 10%;
+    padding-top: 5%;
+}
+
+.ultimo p{
+    font-family: sans-serif;
+    text-align: justify;
+    margin-top: 30px;
 }
 
 .boton4{
