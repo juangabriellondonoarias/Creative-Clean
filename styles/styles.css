@@ -122,12 +122,13 @@ h4{
     font-family:"Segoe IU", sans-serif;
     color: rgb(255, 137, 64);
     font-size:35px;
+    margin-top: 50px;
    
 }
 
 .ultimo{
     margin-left: 12%;
-    margin-top: 10%;
+    margin-top: -17%;
     padding-top: 5%;
 }
 
