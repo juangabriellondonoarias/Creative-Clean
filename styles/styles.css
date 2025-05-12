@@ -1,7 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
-  
 *{
     margin: 0;
     padding: 0;
@@ -194,3 +193,134 @@ footer a{
     padding-top: 2%;
 }
 
+@media (max-width:1279px){
+
+    .primero{
+        background-position-x:50% ;
+        height: 87vh;
+        zoom: 1;
+        background-position-y:-43px ;
+    }
+
+    h2{
+        padding-bottom: 13%;
+    }
+
+    .boton{
+        margin-bottom: 30%;
+    }
+
+    h3{
+        font-size: 32px;
+    }
+
+    .segundo{
+            margin: 10% 50% 20% 10%;
+    }
+
+    .segundo p{
+        font-size: 13px;
+        padding-top: 7%;
+    }
+
+    .boton2{
+    font-size: 12px;
+    margin-top: 6%;
+    padding: 10px 0px;
+    width: 25%;
+    margin-bottom: 5%;
+    }
+
+    .img1{
+        margin-top: -60%;
+        width: 32%;
+    }
+
+    .tercero p{
+        font-size: 13px;
+    }
+
+    .boton3{
+        font-size: 12px;
+        margin-top: 2%;
+        padding: 10px 0px;
+        width: 10%;
+        margin-bottom: 20%;
+    }
+
+    .img2{
+        width: 32%;
+        margin-right: 14%;
+    }
+
+    .arriba{
+        margin-top: 18%;
+        margin-bottom: 17%;
+    }
+
+    .cuarto{
+        zoom: 0.7;
+        height: 67vh;
+    }
+
+    h4{
+        font-size: 44px;
+    }
+
+    .ultimo p{
+        font-size: 18px;
+    }
+
+    .boton4{
+        width: 18%;
+        font-size: 18px;
+    }
+
+    footer a{
+        font-size: 12px;
+    }
+
+    .p{
+        font-size: 10px;
+    }
+}
+
+@media(max-width:920px){
+
+        h2{
+            padding-bottom: 16%;
+            font-size: 28px;
+        }
+
+        h1{
+            font-size:60px ;
+        }
+
+        .boton{
+            margin-bottom: 38%;
+        }
+
+        .primero{
+            zoom: 0.8;
+        }
+
+        .segundo p{
+            font-size: 11px;
+        }
+
+        h3{
+            font-size: 28px;
+        }
+
+        .tercero p{
+            font-size: 11px;
+        }
+
+        .cuarto{
+            zoom: 0.6;
+        }
+
+        .img2{
+            margin-right: 13%;
+        }
+}
