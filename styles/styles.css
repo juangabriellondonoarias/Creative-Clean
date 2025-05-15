@@ -171,6 +171,10 @@ footer a{
     padding-top: 5%;
 }
 
+footer a:hover{
+    color: black;
+}
+
 .uno{
     display: flex;
     flex-direction: column;
