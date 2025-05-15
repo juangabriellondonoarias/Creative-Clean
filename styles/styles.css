@@ -324,3 +324,123 @@ footer a{
             margin-right: 13%;
         }
 }
+
+@media (max-width:768px){
+
+        .primero{
+            zoom:0.5;
+        }
+
+        h1{
+            font-size: 80px;
+        }
+
+        h2{
+            font-size: 35px;
+        }
+
+        .boton{
+            margin-bottom: 33%;
+            font-size: 20px;
+        }
+
+        h3{
+            font-size: 16px;
+        }
+
+        .segundo p{
+            font-size: 7px;
+        }
+
+        .boton2{
+        font-size: 8px;
+        padding: 4px 0px;
+        width: 28%;
+        }
+
+        .tercero p{
+            font-size: 7px;
+        }
+
+        .boton3{
+        font-size: 8px;
+        padding: 5px 0px;
+        width: 12%
+        }
+
+        .cuarto{
+            zoom: 0.4;
+        }
+
+        h4{
+            font-size: 40px;
+        }
+
+        footer a{
+            font-size: 8px;
+        }
+
+        .p{
+            font-size: 8px;
+        }
+}
+
+@media (max-width:480px){
+
+    h1{
+        font-size: 66px;
+    }
+
+    h2{
+        font-size: 30px;
+    }
+
+    .primero{
+        zoom: 0.4;
+    }
+
+    h3{
+        font-size: 12px;
+    }
+
+    .segundo p{
+        font-size: 5px;
+    }
+
+    .tercero p{
+        font-size: 5px;
+    }
+
+    .boton2{
+        font-size: 7px;
+        padding: 3px 0px;
+        width: 26%;
+    }
+
+    .boton3{
+        font-size: 7px;
+        padding: 4px 0px;
+        width: 11%;
+    }
+
+    .cuarto{
+        zoom: 0.3;
+    }
+
+    .ultimo p{
+        font-size: 20px;
+    }
+
+    .boton4{
+        width: 20%;
+        font-size: 20px;
+    }
+
+    footer a{
+        font-size: 6px;
+    }
+
+    .p{
+        font-size: 6px;
+    }
+}
