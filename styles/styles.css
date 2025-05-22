@@ -402,12 +402,13 @@ footer a:hover{
     }
 
     .primero{
-        zoom: 0.4;
         height: 87vh;
+        zoom: 0.6;
     }
 
     h3{
         font-size: 35px;
+        line-height: 35px;
     }
 
     .segundo p{
@@ -415,7 +416,9 @@ footer a:hover{
     }
 
     .tercero p{
-        font-size: 5px;
+        font-size: 12px;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
 
     .boton2{
@@ -430,41 +433,60 @@ footer a:hover{
     }
 
     .boton3{
-        font-size: 7px;
-        padding: 4px 0px;
-        width: 11%;
+        font-size: 15px;
+        width: 25%;
+        margin-left: 35%;
     }
 
     .cuarto{
-        zoom: 0.3;
+        zoom: 0.4;
     }
 
     .ultimo p{
-        font-size: 20px;
+        font-size: 27px;
     }
 
     .boton4{
-        width: 20%;
-        font-size: 20px;
+        width: 30%;
+        font-size: 21px;
     }
 
     footer a{
-        font-size: 6px;
+        font-size: 15px;
+        line-height: 5px;
     }
 
     .img1{
         float: none;
         margin-top: 0;
-        width: 70%;
-        margin-right: 0;
-        margin-left: 15%;
+        width: 76%;
+        margin-left: 10%;
     }
 
     .img2{
-        margin-top: 0;
+        width: 76%;
+        margin-top: 30px;
+        margin-bottom: 10px;
     }
 
     .p{
-        font-size: 6px;
+        font-size: 11px;
+    }
+
+    .tercero{
+        margin-left: 16px;
+    }
+
+    h4{
+        font-size: 50px;
+    }
+
+    footer{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .uno{
+        align-items: center;
     }
 }
